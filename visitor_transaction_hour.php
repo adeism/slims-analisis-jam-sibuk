@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Statistik Pengunjung dan Transaksi (per jam)
- * Plugin URI: https://github.com/adeism/slims-pengunjung-transaksi-perjam
- * Description: Statistik Pengunjung dan Transaksi (per jam) dengan perbandingan
+ * Plugin Name: Analisis Jam Sibuk (Penunjung & Transaksi)
+ * Plugin URI: https://github.com/adeism/slims-analisis-jam-sibuk
+ * Description: Laporan ini berfungsi untuk menganalisis jam sibuk perpustakaan berdasarkan aktivitas pengunjung dan transaksi sirkulasi, lengkap dengan perbandingan periode dan visualisasi data.
  * Version: 1.0.0
  * Author: Ade Ismail Siregar (adeismailbox@gmail.com) 2025-08-20 14:07
  */
